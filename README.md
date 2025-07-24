@@ -3,6 +3,12 @@
 -  [best_model.pth (Google Drive)](https://drive.google.com/file/d/1Wa7SZmTXA2rsKm1J5NnokT8BvO1u3eBj/view?usp=sharing)
 -  [best_model2.pth (Google Drive)](https://drive.google.com/file/d/1CD6_rYji3KtF5Xu3MV4JUfSD0HZDtJIc/view?usp=sharing)
 
+![Platform](https://img.shields.io/badge/hardware-NVIDIA%20JetBot-lightgrey)
+![Model](https://img.shields.io/badge/model-ResNet18-blue)
+![Input](https://img.shields.io/badge/input-Real--Time%20Camera-green)
+![Emotions](https://img.shields.io/badge/emotions-Happy%20%7C%20Angry-yellow)
+![Response](https://img.shields.io/badge/robot%20action-Move%20%7C%20Escape-red)
+
 # Demo
 ### 1. Detects happy
 
@@ -96,7 +102,7 @@ https://<jetbot_ip>:8888
 
 # Project: Emotion-Based Autonomous Control
 We trained a **ResNet-based CNN** to classify emotions from real-time camera input.  
-The JetBot currently responds to **two emotions**:
+The JetBot responds to **two emotions**:
 
 - **Happy 😊** → Jetbot moves in a **circle**
 - **Angry 😠** → Jetbot **moves away**
