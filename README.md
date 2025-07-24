@@ -4,19 +4,29 @@
 -  [best_model2.pth (Google Drive)](https://drive.google.com/file/d/1CD6_rYji3KtF5Xu3MV4JUfSD0HZDtJIc/view?usp=sharing)
 
 # Demo
-1. Detects happy
+### 1. Detects happy
+
    <br>
-   <br>
+   
 ![Happy](media/happyjetbot.gif)
 <br>
 <br>
 
-2. Detects angry
+### 2. Detects angry
+
    <br>
-   <br>
+   
 ![Angry](media/angryjetbot.gif)
 
+<br>
+
+### You can see the full video in media/
+
+<br>
+
 --------------------------------
+
+<br>
 
 # Setup
 ## Step 1: Clone and Configure the JetBot Repository
