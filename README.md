@@ -5,10 +5,18 @@
 
 # Demo
 1. Detects happy
+   <br>
+   <br>
 ![Happy](media/happyjetbot.gif)
+<br>
+<br>
 
 2. Detects angry
+   <br>
+   <br>
 ![Angry](media/angryjetbot.gif)
+
+--------------------------------
 
 # Setup
 ## Step 1: Clone and Configure the JetBot Repository
