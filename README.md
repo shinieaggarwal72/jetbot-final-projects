@@ -20,7 +20,7 @@
 
 <br>
 
-### You can see the full video in media/
+### You can see the full video in [`media/demoVideo`](media/demoVideo.mp4)
 
 <br>
 
